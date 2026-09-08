@@ -36,3 +36,7 @@ The dashboard provides an interactive view of:
 ## 🎯 Objective
 
 The objective of this project is to analyze coffee sales data and transform it into an interactive business dashboard that helps identify revenue trends and customer purchasing patterns.
+
+## 📊 Dashboard Preview
+
+![Coffee Sales Dashboard](Dashboard%20SS.png)
